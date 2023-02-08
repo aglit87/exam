@@ -68,6 +68,7 @@ body {
 
 .banner {
     display: grid;
+    overflow: auto;
 }
 
 .banner-item-container {
